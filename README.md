@@ -8,7 +8,7 @@ This project is a **machine learning web application** that predicts whether a p
 
 ## 📊 Demo
 
-https://your-deployed-app-link (Add your Streamlit Cloud or Hugging Face Space URL here)
+ https://diabetes-predictor-dyuwe3wztfgqgxr9jkxzs8.streamlit.app
 
 ---
 
